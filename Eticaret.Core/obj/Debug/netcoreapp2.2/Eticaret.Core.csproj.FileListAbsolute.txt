@@ -1,0 +1,9 @@
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Core\bin\Debug\netcoreapp2.2\Eticaret.Core.deps.json
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Core\bin\Debug\netcoreapp2.2\Eticaret.Core.dll
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Core\obj\Debug\netcoreapp2.2\Eticaret.Core.csprojAssemblyReference.cache
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Core\obj\Debug\netcoreapp2.2\Eticaret.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Core\obj\Debug\netcoreapp2.2\Eticaret.Core.AssemblyInfoInputs.cache
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Core\obj\Debug\netcoreapp2.2\Eticaret.Core.AssemblyInfo.cs
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Core\bin\Debug\netcoreapp2.2\Eticaret.Core.pdb
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Core\obj\Debug\netcoreapp2.2\Eticaret.Core.dll
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Core\obj\Debug\netcoreapp2.2\Eticaret.Core.pdb

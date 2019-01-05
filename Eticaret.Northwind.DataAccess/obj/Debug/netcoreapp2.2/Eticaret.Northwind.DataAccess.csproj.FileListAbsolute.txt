@@ -1,0 +1,14 @@
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Eticaret.Core.dll
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Eticaret.Northwind.Entities.dll
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Eticaret.Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Eticaret.Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Eticaret.Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Eticaret.Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Eticaret.Northwind.DataAccess.deps.json
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Eticaret.Northwind.DataAccess.dll
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Eticaret.Core.pdb
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Eticaret.Northwind.Entities.pdb
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Eticaret.Northwind.DataAccess.csproj.CopyComplete
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Eticaret.Northwind.DataAccess.pdb
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Eticaret.Northwind.DataAccess.dll
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Eticaret.Northwind.DataAccess.pdb

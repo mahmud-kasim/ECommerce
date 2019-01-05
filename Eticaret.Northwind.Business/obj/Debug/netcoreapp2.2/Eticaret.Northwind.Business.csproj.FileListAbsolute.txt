@@ -1,0 +1,16 @@
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Business\bin\Debug\netcoreapp2.2\Eticaret.Northwind.Business.deps.json
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Business\bin\Debug\netcoreapp2.2\Eticaret.Northwind.Business.dll
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Business\bin\Debug\netcoreapp2.2\Eticaret.Northwind.Business.pdb
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Business\obj\Debug\netcoreapp2.2\Eticaret.Northwind.Business.csprojAssemblyReference.cache
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Business\obj\Debug\netcoreapp2.2\Eticaret.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Business\obj\Debug\netcoreapp2.2\Eticaret.Northwind.Business.AssemblyInfoInputs.cache
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Business\obj\Debug\netcoreapp2.2\Eticaret.Northwind.Business.AssemblyInfo.cs
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Business\obj\Debug\netcoreapp2.2\Eticaret.Northwind.Business.dll
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Business\obj\Debug\netcoreapp2.2\Eticaret.Northwind.Business.pdb
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Business\bin\Debug\netcoreapp2.2\Eticaret.Core.dll
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Business\bin\Debug\netcoreapp2.2\Eticaret.Northwind.DataAccess.dll
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Business\bin\Debug\netcoreapp2.2\Eticaret.Northwind.Entities.dll
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Business\bin\Debug\netcoreapp2.2\Eticaret.Core.pdb
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Business\bin\Debug\netcoreapp2.2\Eticaret.Northwind.DataAccess.pdb
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Business\bin\Debug\netcoreapp2.2\Eticaret.Northwind.Entities.pdb
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Business\obj\Debug\netcoreapp2.2\Eticaret.Northwind.Business.csproj.CopyComplete

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Eticaret.Core\Eticaret.Core.csproj" />
+    <ProjectReference Include="..\Eticaret.Northwind.Entities\Eticaret.Northwind.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

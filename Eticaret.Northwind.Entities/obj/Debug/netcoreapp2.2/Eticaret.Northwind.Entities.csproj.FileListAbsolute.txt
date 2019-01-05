@@ -1,0 +1,12 @@
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Entities\bin\Debug\netcoreapp2.2\Eticaret.Northwind.Entities.deps.json
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Entities\bin\Debug\netcoreapp2.2\Eticaret.Northwind.Entities.dll
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Entities\bin\Debug\netcoreapp2.2\Eticaret.Northwind.Entities.pdb
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Entities\bin\Debug\netcoreapp2.2\Eticaret.Core.dll
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Entities\bin\Debug\netcoreapp2.2\Eticaret.Core.pdb
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Entities\obj\Debug\netcoreapp2.2\Eticaret.Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Entities\obj\Debug\netcoreapp2.2\Eticaret.Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Entities\obj\Debug\netcoreapp2.2\Eticaret.Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Entities\obj\Debug\netcoreapp2.2\Eticaret.Northwind.Entities.AssemblyInfo.cs
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Entities\obj\Debug\netcoreapp2.2\Eticaret.Northwind.Entities.csproj.CopyComplete
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Entities\obj\Debug\netcoreapp2.2\Eticaret.Northwind.Entities.dll
+C:\Users\Mahmud\source\repos\Eticaret\Eticaret.Northwind.Entities\obj\Debug\netcoreapp2.2\Eticaret.Northwind.Entities.pdb
